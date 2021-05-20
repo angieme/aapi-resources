@@ -1,6 +1,6 @@
-# API Resources
+# AAPI Resources
 
-AAPI Panel Discussion members have compiled this list of resources in support of the Asian and Pacific Islander community. This list is a work in progress. Suggestions are welcome. Content alert for emotionally difficult material: child abuse, physical assault, racism and sexual assault.
+AAPI Panel Discussion resources in support of the Asian and Pacific Islander community. This list is a work in progress. Suggestions are welcome. Content alert for emotionally difficult material: child abuse, physical assault, racism and sexual assault.
 
 ### Organizations
 - Stop AAPI Hate is "the leading aggregator of anti-Asian and anti-Pacific Islander hate incidents" and provides "multilingual resources for impacted community members" and educational resources for community members and allies. [https://stopaapihate.org/](https://stopaapihate.org/)
