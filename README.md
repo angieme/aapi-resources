@@ -5,7 +5,7 @@ AAPI Panel Discussion resources in support of the Asian and Pacific Islander com
 ### Organizations
 - Stop AAPI Hate is "the leading aggregator of anti-Asian and anti-Pacific Islander hate incidents" and provides "multilingual resources for impacted community members" and educational resources for community members and allies. [https://stopaapihate.org/](https://stopaapihate.org/)
 - Movement Hub, from the UCLA Center for Neighborhood Knowledge, offers "resources for and by AAPI community organizations to promote cross racial unity and civic participation for realizing systemic and structural change." [https://movementhub.org/](https://movementhub.org/)
-- KTownForAll is an "all-volunteer homeless outreach and advocacy" organization. [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
+- KTownForAll is an "all-volunteer homeless outreach and advocacy" organization. [https://twitter.com/ktownforall](https://twitter.com/ktownforall?lang=en)
 
 ### News
 - NextShark is "the leading source for Asian American news." [https://www.instagram.com/nextshark/](https://www.instagram.com/nextshark/)
