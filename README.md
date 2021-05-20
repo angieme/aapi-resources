@@ -4,13 +4,13 @@ AAPI Panel Discussion members have compiled this list of resources in support of
 
 ### Organizations
 - Stop AAPI Hate is "the leading aggregator of anti-Asian and anti-Pacific Islander hate incidents" and provides "multilingual resources for impacted community members" and educational resources for community members and allies. [https://stopaapihate.org/](https://stopaapihate.org/)
-- KTownForAll is an "all-volunteer homeless outreach and advocacy org." [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
-- AAPIs for Civic Empowerment Education Fund "advances policies, campaigns and issues that support working-class AAPIs through voter mobilization." [https://aapiforce-ef.org](https://aapiforce-ef.org)
-- [https://www.nqapia.org/](https://www.nqapia.org/)
+- - Movement Hub, from the UCLA Center for Neighborhood Knowledge, offers "resources for and by AAPI community organizations to promote cross racial unity and civic participation for realizing systemic and structural change." [https://movementhub.org/](https://movementhub.org/)
+- KTownForAll is an "all-volunteer homeless outreach and advocacy" organization. [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
 
 ### News
 - NextShark is "the leading source for Asian American news." [https://www.instagram.com/nextshark/](https://www.instagram.com/nextshark/)
 - NBC Asian America [https://www.nbcnews.com/asian-america](https://www.nbcnews.com/asian-america)
+- UCLA Center for Neighborhood Knowledge [https://knowledge.luskin.ucla.edu/news/](https://knowledge.luskin.ucla.edu/news/)
 
 ### History
 - "Asian Americans" is a PBS documentary series told "through intimate personal stories" casting "a new lens on U.S. history and the ongoing role that Asian Americans have played." [https://www.pbs.org/show/asian-americans/](https://www.pbs.org/show/asian-americans/)
@@ -39,3 +39,5 @@ AAPI Panel Discussion members have compiled this list of resources in support of
 - "5 reasons I’m hopeful about diversity, equity, and inclusion in corporate America" [https://www.fastcompany.com/90625813/5-reasons-im-hopeful-about-diversity-equity-and-inclusion-in-corporate-america](https://www.fastcompany.com/90625813/5-reasons-im-hopeful-about-diversity-equity-and-inclusion-in-corporate-america)
 
 ### Allyship
+- "3 ways to be a better ally to your AAPI coworkers and the greater community" [https://www.fastcompany.com/90632294/3-ways-to-be-a-better-ally-to-your-aapi-coworkers-and-the-greater-community](https://www.fastcompany.com/90632294/3-ways-to-be-a-better-ally-to-your-aapi-coworkers-and-the-greater-community)
+- "The Role of and Need for Implicit Bias Training" [https://www.lawpracticetoday.org/article/the-role-of-and-need-for-implicit-bias-training/](https://www.lawpracticetoday.org/article/the-role-of-and-need-for-implicit-bias-training/)
