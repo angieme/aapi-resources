@@ -1,11 +1,12 @@
 # API Resources
 
-Resources compiled by AAPI Panel Discussion members in support of the Asian and Pacific Islander community. Content alert for emotionally difficult material including child abuse, physical assault, racism and sexual assault.
+AAPI Panel Discussion members have compiled this list of resources in support of the Asian and Pacific Islander community. This list is a work in progress. Suggestions are welcome. Content alert for emotionally difficult material: child abuse, physical assault, racism and sexual assault.
 
 ### Organizations
 - Stop AAPI Hate is "the leading aggregator of anti-Asian and anti-Pacific Islander hate incidents" and provides "multilingual resources for impacted community members" and educational resources for community members and allies. [https://stopaapihate.org/](https://stopaapihate.org/)
-- KTownForAll is an "all-volunteer homeless outreach and advocacy org" [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
+- KTownForAll is an "all-volunteer homeless outreach and advocacy org." [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
 - AAPIs for Civic Empowerment Education Fund "advances policies, campaigns and issues that support working-class AAPIs through voter mobilization." [https://aapiforce-ef.org](https://aapiforce-ef.org)
+- [https://www.nqapia.org/](https://www.nqapia.org/)
 
 ### News
 - NextShark is "the leading source for Asian American news." [https://www.instagram.com/nextshark/](https://www.instagram.com/nextshark/)
@@ -22,7 +23,7 @@ Resources compiled by AAPI Panel Discussion members in support of the Asian and 
 
 ### AAPI Voices
 - Randy Park, son of Atlanta shooting victim Hyun Jung Grant, shares his perspective on his mother's murder with ABC News. [https://abcnews.go.com/US/son-victim-atlanta-spa-shooting-outpouring-support-surreal/story?id=76560937](https://abcnews.go.com/US/son-victim-atlanta-spa-shooting-outpouring-support-surreal/story?id=76560937)
-- Simran Jeet Singh, a senior fellow at the Sikh Coalition, speaks with PBS NewsHour about the April 15 mass shooting at a FedEx facility. [https://www.pbs.org/newshour/nation/after-indianapolis-shooting-a-sikh-activist-on-why-we-need-to-accept-realities-of-racism-in-america](https://www.pbs.org/newshour/nation/after-indianapolis-shooting-a-sikh-activist-on-why-we-need-to-accept-realities-of-racism-in-america)
+- Simran Jeet Singh, a senior fellow at the Sikh Coalition, speaks about the April 15 mass shooting at a FedEx facility. [https://www.pbs.org/newshour/nation/after-indianapolis-shooting-a-sikh-activist-on-why-we-need-to-accept-realities-of-racism-in-america](https://www.pbs.org/newshour/nation/after-indianapolis-shooting-a-sikh-activist-on-why-we-need-to-accept-realities-of-racism-in-america)
 - "The Dehumanization of Asian Women" [https://coldteacollective.com/the-dehumanization-of-asian-women-why-we-can-no-longer-be-silent/](https://coldteacollective.com/the-dehumanization-of-asian-women-why-we-can-no-longer-be-silent/)
 - Dakota Kim writes about the effects of fetishization on API women. [https://www.shondaland.com/act/a36052580/we-need-to-defetishize-our-view-of-asian-women/](https://www.shondaland.com/act/a36052580/we-need-to-defetishize-our-view-of-asian-women/)
 - "How anti-Asian violence is impacting communities and individuals, and what can be done to stop it." [https://www.kqed.org/news/11860549/tip-of-the-iceberg-how-effects-of-anti-asian-attacks-run-deep](https://www.kqed.org/news/11860549/tip-of-the-iceberg-how-effects-of-anti-asian-attacks-run-deep)
@@ -32,6 +33,9 @@ Resources compiled by AAPI Panel Discussion members in support of the Asian and 
 - Comedian Joe Wong “tackles the issue of anti-Asian racism with sincerity, ferocity and humor” in his book "Not This Shit Again!: A Comedian’s Guide To Tackling Anti-Asian Racism". [https://twitter.com/joewongcomedy](https://twitter.com/joewongcomedy)
 - So Yun Um "explores the intersecting lives of two friends and their fathers, each of whom own liquor stores as they take a real look at how their lives and dreams are cyclical and ever connected to one another" in her short documentary "Liquor Store Babies". [https://www.soyunum.com/liquor-store-babies](https://www.soyunum.com/liquor-store-babies)
 
-### Racism in the Tech Industry
+### Racism in the Tech Industry and Beyond
 - "The Illusion of Asian Success" [https://www.ascendleadershipfoundation.org/research/the-illusion-of-asian-success](https://www.ascendleadershipfoundation.org/research/the-illusion-of-asian-success)
 - "End Anti-Asian Racism in Tech" [https://techequitycollaborative.org/2021/03/03/end-anti-asian-racism-in-tech/](https://techequitycollaborative.org/2021/03/03/end-anti-asian-racism-in-tech/)
+- "5 reasons I’m hopeful about diversity, equity, and inclusion in corporate America" [https://www.fastcompany.com/90625813/5-reasons-im-hopeful-about-diversity-equity-and-inclusion-in-corporate-america](https://www.fastcompany.com/90625813/5-reasons-im-hopeful-about-diversity-equity-and-inclusion-in-corporate-america)
+
+### Allyship
