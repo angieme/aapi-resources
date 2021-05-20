@@ -4,7 +4,7 @@ AAPI Panel Discussion members have compiled this list of resources in support of
 
 ### Organizations
 - Stop AAPI Hate is "the leading aggregator of anti-Asian and anti-Pacific Islander hate incidents" and provides "multilingual resources for impacted community members" and educational resources for community members and allies. [https://stopaapihate.org/](https://stopaapihate.org/)
-- - Movement Hub, from the UCLA Center for Neighborhood Knowledge, offers "resources for and by AAPI community organizations to promote cross racial unity and civic participation for realizing systemic and structural change." [https://movementhub.org/](https://movementhub.org/)
+- Movement Hub, from the UCLA Center for Neighborhood Knowledge, offers "resources for and by AAPI community organizations to promote cross racial unity and civic participation for realizing systemic and structural change." [https://movementhub.org/](https://movementhub.org/)
 - KTownForAll is an "all-volunteer homeless outreach and advocacy" organization. [https://twitter.com/ktownforall?lang=en](https://twitter.com/ktownforall?lang=en)
 
 ### News
