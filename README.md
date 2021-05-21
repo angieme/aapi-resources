@@ -11,6 +11,7 @@ AAPI Panel Discussion resources in support of the Asian and Pacific Islander com
 - NextShark is "the leading source for Asian American news." [https://www.instagram.com/nextshark/](https://www.instagram.com/nextshark/)
 - NBC Asian America [https://www.nbcnews.com/asian-america](https://www.nbcnews.com/asian-america)
 - UCLA Center for Neighborhood Knowledge [https://knowledge.luskin.ucla.edu/news/](https://knowledge.luskin.ucla.edu/news/)
+- "Here's What The New Hate Crimes Law Aims To Do As Attacks On Asian Americans Rise" [https://www.npr.org/2021/05/20/998599775/biden-to-sign-the-covid-19-hate-crimes-bill-as-anti-asian-american-attacks-rise](https://www.npr.org/2021/05/20/998599775/biden-to-sign-the-covid-19-hate-crimes-bill-as-anti-asian-american-attacks-rise)
 
 ### History
 - "Asian Americans" is a PBS documentary series told "through intimate personal stories" casting "a new lens on U.S. history and the ongoing role that Asian Americans have played." [https://www.pbs.org/show/asian-americans/](https://www.pbs.org/show/asian-americans/)
